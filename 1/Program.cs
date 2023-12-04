@@ -23,3 +23,4 @@ for( int i = 0; i < array.Length; i++){
     count++;
 }
 System.Console.WriteLine($"Количество элементов массива, значения которых лежат на отрезке [20,90] {count}");
+
